@@ -2,8 +2,8 @@
 #include <cmath>
 using namespace std;
 
-    double deg2rad(double deg){
-        return (deg*M_PI)/180 ;
+    double deg2rad(double degg){
+        return (degg*M_PI)/180 ;
     }
 
     double rad2deg(double rad){
