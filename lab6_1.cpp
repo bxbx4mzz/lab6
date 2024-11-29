@@ -2,7 +2,7 @@
 using namespace std;
 
 int main(){
-    int n = 89814982;
+    int n = 898149;
     int even = 0;
     int odd = 0 ;
     while(n != 0){
@@ -19,3 +19,4 @@ int main(){
     cout << "#Odd numbers = " << odd ;
     return 0;
 }
+
